@@ -11,5 +11,9 @@ My first web development project built using HTML as part of the Web Development
 ## Project Goal
 To learn the basics of HTML and create a simple web page.
 
+## Screenshot
+
+![Website Screenshot ]( my page.png)
+
 ## Author
 Sara Saud Alotaibi
